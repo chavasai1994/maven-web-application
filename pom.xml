@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.34.14:8081/repository/krishika-release/</url>
+	      <url>http://13.127.253.3:8081/repository/krishika-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.34.14:8081/repository/krishika-snapshot/</url>
+	      <url>http://13.127.253.3:8081/repository/krishika-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
